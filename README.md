@@ -1,6 +1,6 @@
 # Entertainment Hub
 
-> Explore the fascinating world of movies, music, and books — all brought together on a single interactive platform.
+> Explore the fascinating world of movies, music, and books  all brought together on a single interactive platform.
 
 ---
 
