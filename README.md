@@ -34,12 +34,14 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 <details open>
 <summary><h2> Project Files</h2></summary>
 
-| **File Name** | **Purpose**                                         |
-| ------------- | --------------------------------------------------- |
-| index.html    | Main webpage structure and layout                   |
-| style.css     | Styling and design of the interface                 |
-| script.js     | Interactive features and music recommendation logic |
-| README.md     | Project description and documentation               |
+# Project Files   
+
+| **File Name** | **Purpose** |
+|----------------|-------------|
+| [index.html](index.html) | Main webpage structure and layout |
+| [style.css](style.css) | Styling and design of the interface |
+| [script.js](script.js) | Interactive features and music recommendation logic |
+| [README.md](README.md) | Project description and documentation |
 
 </details>
 
